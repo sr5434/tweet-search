@@ -3,7 +3,7 @@
 ## CVE-2025-66478 (React2Shell Vulnerability)
 
 ### Scan Date
-December 6, 2025
+Last scanned: December 6, 2025
 
 ### Tool Used
 `npx fix-react2shell-next@1.0.14`

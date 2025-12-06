@@ -18,3 +18,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
  - React for components and state
  - OpenAI for embeddings
  - Pinecone for vector storage and querying
+
+## Security
+
+This project has been scanned for CVE-2025-66478 (React2Shell vulnerability) using `npx fix-react2shell-next`. 
+
+✓ **Status**: Not vulnerable
+
+For detailed security information, see [SECURITY.md](./SECURITY.md).
